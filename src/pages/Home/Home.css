@@ -1,0 +1,31 @@
+.home-root {
+  background-color: #e8e8e8;
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  min-height: 61em;
+}
+
+.title-root {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+
+.title-image > img {
+  width: 100%;
+}
+
+.title-text > span {
+  text-align: center;
+  color: black;
+  font-size: 2rem;
+  margin-top: 3rem;
+}
+
+.card-row-root {
+  display: flex;
+  justify-content: center;
+}
